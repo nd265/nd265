@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates.
+
+Email | LinkedIn | LeetCode | Kaggle
+
+Projects
+Big Data Twitter Sentiment Analysis | Hadoop | Python
+ERP-Analysis-and-Course-Recommendation-System Public | Undergraduate Project | Python
+Miscellaneous
+Achievements
