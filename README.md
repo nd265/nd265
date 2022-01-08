@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates.
 
-Email | LinkedIn | LeetCode | Kaggle
+[Email](navyad265@gmail.com) | [LinkedIn](https://www.linkedin.com/in/navya-dahiya/) | [LeetCode](https://leetcode.com/Navya_Dahiya/) | [Kaggle](https://www.kaggle.com/navya265)
 
-Projects
-Big Data Twitter Sentiment Analysis | Hadoop | Python
-ERP-Analysis-and-Course-Recommendation-System Public | Undergraduate Project | Python
-Miscellaneous
-Achievements
+### Projects
+- [Census-Income-Prediction](https://github.com/nd265/census-income-prediction) | Supervised Learning | Classification | RandomForestClassifier
+- [Big Data Twitter Sentiment Analysis](https://github.com/nd265/Big-Data-Twitter-Sentiment-Analysis) | Hadoop | Python
+- [ERP-Analysis-and-Course-Recommendation-System Public](https://github.com/nd265/ERP-Analysis-and-Course-Recommendation-System) | Python
+
+
+### Achievements
