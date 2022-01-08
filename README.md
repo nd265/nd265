@@ -21,8 +21,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### Projects
 - [Census-Income-Prediction](https://github.com/nd265/census-income-prediction) | Supervised Learning | Classification | RandomForestClassifier
-- [Big Data Twitter Sentiment Analysis](https://github.com/nd265/Big-Data-Twitter-Sentiment-Analysis) | Hadoop | Python | 2018
-- [ERP-Analysis-and-Course-Recommendation-System Public](https://github.com/nd265/ERP-Analysis-and-Course-Recommendation-System) | Python | Data Mining | 2018
+- [Big Data Twitter Sentiment Analysis](https://github.com/nd265/Big-Data-Twitter-Sentiment-Analysis) | Hadoop | Python | Internship Project | 2018
+- [ERP-Analysis-and-Course-Recommendation-System Public](https://github.com/nd265/ERP-Analysis-and-Course-Recommendation-System) | Python | Data Mining Undergraduate Project| 2018
 
 
 ### Achievements
