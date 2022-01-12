@@ -5,7 +5,7 @@
 -  📫 How to reach me: [Email](navyad265@gmail.com) | [LinkedIn](https://www.linkedin.com/in/navya-dahiya/)
 
 In my free time, I solve problems on LeetCode and share my knowledge on Kaggle in the form of notebooks, which can be viewed below:  
-[LeetCode](https://leetcode.com/Navya_Dahiya/) | [Kaggle](https://www.kaggle.com/navya265)
+[LeetCode](https://leetcode.com/Navya_Dahiya/) | [Kaggle Notebooks](https://www.kaggle.com/navya265/code)
 
 ### Projects
 - [Census-Income-Prediction](https://github.com/nd265/census-income-prediction) | Supervised Learning | Classification | RandomForestClassifier
