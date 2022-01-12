@@ -2,9 +2,11 @@
 -  💞️ I am interested in Data Science and like to create ML and statistics to find solutions to problems
 -  👀 I’m looking forward to collaborate on projects revolving around NLP and deep learning
 -  ⚡ Fun fact: I like to indulge in philosophical talks mainly about 'existence' and 'mind'
--  📫 How to reach me: [Email](navyad265@gmail.com) | [LinkedIn](https://www.linkedin.com/in/navya-dahiya/)
+-  📫 How to reach me:   
+              **Email**: navyad265@gmail.com    
+              [**LinkedIn**](https://www.linkedin.com/in/navya-dahiya/)
 
-In my free time, I solve problems on LeetCode and share my knowledge on Kaggle in the form of notebooks, which can be viewed below:  
+In my free time, I solve some problems on LeetCode and share my knowledge on Kaggle in the form of notebooks, which can be viewed below:  
 [LeetCode](https://leetcode.com/Navya_Dahiya/) | [Kaggle Notebooks](https://www.kaggle.com/navya265/code)
 
 ### Projects
