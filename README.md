@@ -16,11 +16,11 @@ In my free time, I solve some problems on LeetCode and share my knowledge on Kag
 - [ERP-Data-Mining-And-Analysis](https://github.com/nd265/ERP-Analysis-and-Course-Recommendation-System) | Python | Data Mining Undergraduate Project| 2018
 
 ### Hackathons
-- WIDS Kaggle Hackathon
-  - Ranked top 2% worldwide (16/829)
-- Bot Detection Model | Dell employees AI/ML Hackathon
-  - Among top 6 out of 40 teams
-- Prediction of MSP for farmers | Dell recruitment hackathon drive
+- Women In Data Science([WIDS](https://www.kaggle.com/c/widsdatathon2022)) Kaggle Hackathon 
+  - Ranked 1st in Vancouver and top 2% worldwide (16/829). View [here](https://www.kaggle.com/navya265/competitions?tab=completed)
+- Bot Detection Model | Dell AI/ML Hackathon | Naive Bayes algorithm
+  - Ranked 6th out of 40 teams
+- Prediction of MSP for farmers | Dell recruitment hackathon drive | Linear Regression
   - Top performer, which resulted in a job offer by Dell International Services
 
 ### Online Learnings
