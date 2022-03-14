@@ -1,7 +1,6 @@
 -  Hi there 👋 , I am currently pursuing Masters in Data science at University Of British Columbia(Batch of 2022)
 -  💞️ I am interested in Data Science and like to solve problems using ML
 -  👀 I’m looking forward to collaborate on projects revolving around NLP and deep learning
--  ⚡ Fun fact: I like to indulge in philosophical talks mainly about 'existence' and 'mind'
 -  📫 How to reach me:   
               **Email**: navyad265@gmail.com    
               [**LinkedIn**](https://www.linkedin.com/in/navya-dahiya/)
