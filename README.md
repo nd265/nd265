@@ -11,6 +11,7 @@ In my free time, I solve some problems on LeetCode and share my knowledge on Kag
 ### Projects
 - [Forecast Gold Prices](https://github.com/nd265/Forecast-gold-prices) | Time Series analysis | UBC Academic Project
 - [Mindthegap](https://github.com/nd265/mindthegap) | Dash | Dashboard | Data Vizualisation | [Heroku app](https://dsci532-2022-mindthegap.herokuapp.com/) | UBC Academic Project
+- [MindtheGap-R](https://github.com/nd265/mindthegap-R) | R Dashboard | Data Visualization | [Heroku app](https://dsci532-2022-mindthegap-r.herokuapp.com/) | UBC Academic Project
 - [Simplefit](https://github.com/nd265/simplefit), [Simplerfit](https://github.com/nd265/simplerfit) | Python package | R package | UBC academic project
 - [Census-Income-Prediction](https://github.com/nd265/census-income-prediction) | Supervised Learning | Classification | UBC academic project
 - [Big Data Twitter Sentiment Analysis](https://github.com/nd265/Big-Data-Twitter-Sentiment-Analysis) | Hadoop | Python | Internship Project | 2018
