@@ -9,6 +9,7 @@ In my free time, I solve some problems on LeetCode and share my knowledge on Kag
 [LeetCode](https://leetcode.com/Navya_Dahiya/) | [Kaggle Notebooks](https://www.kaggle.com/navya265/code)
 
 ### Projects
+- [Rainfall Prediction using AWS cloud](https://github.com/nd265/Rainfall-prediction-cloud-computing) | Cloud Computing | UBC Academic Project
 - [Forecast Gold Prices](https://github.com/nd265/Forecast-gold-prices) | Time Series analysis | UBC Academic Project
 - [Mindthegap](https://github.com/nd265/mindthegap) | Dash | Dashboard | Data Vizualisation | [Heroku app](https://dsci532-2022-mindthegap.herokuapp.com/) | UBC Academic Project
 - [MindtheGap-R](https://github.com/nd265/mindthegap-R) | R Dashboard | Data Visualization | [Heroku app](https://dsci532-2022-mindthegap-r.herokuapp.com/) | UBC Academic Project
