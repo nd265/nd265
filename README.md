@@ -1,5 +1,6 @@
 -  Hi there 👋 , I am currently pursuing Masters in Data science at University Of British Columbia(Batch of 2022)
 -  💞️ I am interested in Data Science and like to solve problems using ML
+-  Currently, I am working on the UBC Capstone project - 'Head Collision Detection in Sports Videos' using Computer Vision and Deep Learning algorithms.
 -  👀 I’m looking forward to collaborate on projects revolving around NLP and deep learning
 -  📫 How to reach me:   
               **Email**: navyad265@gmail.com    
@@ -9,6 +10,7 @@ In my free time, I solve some problems on LeetCode and share my knowledge on Kag
 [LeetCode](https://leetcode.com/Navya_Dahiya/) | [Kaggle Notebooks](https://www.kaggle.com/navya265/code)
 
 ### Projects
+- Head Collision Detection in Sports Videos | Computer Vision | Deep Learning | Pytorch | Capstone Project
 - [Rainfall Prediction using AWS cloud](https://github.com/nd265/Rainfall-prediction-cloud-computing) | Cloud Computing | UBC Academic Project
 - [Forecast Gold Prices](https://github.com/nd265/Forecast-gold-prices) | Time Series analysis | UBC Academic Project
 - [Mindthegap](https://github.com/nd265/mindthegap) | Dash | Dashboard | Data Vizualisation | [Heroku app](https://dsci532-2022-mindthegap.herokuapp.com/) | UBC Academic Project
