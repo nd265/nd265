@@ -1,6 +1,5 @@
--  Hi there 👋 , I am currently pursuing Masters in Data science at University Of British Columbia(Batch of 2022)
--  💞️ I am interested in Data Science and like to solve problems using ML
--  Currently, I am working on the UBC Capstone project - 'Head Collision Detection in Sports Videos' using Computer Vision and Deep Learning algorithms.
+-  Hi there 👋 , I have graduated from the Masters in Data science program from University Of British Columbia(Batch of 2022)
+-  💞️ I am interested in Data Science and like to solve problems using Machine Learning
 -  👀 I’m looking forward to collaborate on projects revolving around NLP and deep learning
 -  📫 How to reach me:   
               **Email**: navyad265@gmail.com    
