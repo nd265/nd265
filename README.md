@@ -1,4 +1,4 @@
--  Hi there 👋 , I have graduated from the Masters in Data science program from University Of British Columbia(Batch of 2022)
+-  Hi there 👋 , I hold a graduate degree in Data science from the University Of British Columbia(Batch of 2022)
 -  💞️ I am interested in Data Science and like to solve problems using Machine Learning
 -  👀 I’m looking forward to collaborate on projects revolving around NLP and deep learning
 -  📫 How to reach me:   
